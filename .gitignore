@@ -25,3 +25,15 @@ hs_err_pid*
 .project
 .classpath
 .settings
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
